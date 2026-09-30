@@ -479,7 +479,7 @@ The project is designed to demonstrate DNS filtering, networking, and embedded s
 
 # 📜 License
 
-This project is open source.
+This project is open source under MIT LICENSE.
 
 See the repository's `LICENSE` file for licensing details.
 
